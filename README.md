@@ -5,3 +5,5 @@ Risu4DB is a database management application that allows you to connect to MySQL
 ## URL
 
 [Risu4DB Web](https://rodrisolisavila.github.io/risu4db/)
+
+![gbuttoncapture](img/preview.png)
